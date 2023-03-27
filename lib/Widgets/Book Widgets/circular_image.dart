@@ -29,7 +29,7 @@ class CircularImage extends StatelessWidget {
         Padding(
           padding: const EdgeInsets.only(top: 10),
           child: Text(
-            'Said Farhan',
+            'M. Fadhlan',
             style: GoogleFonts.poppins(
               fontSize: 20,
             ),
@@ -38,7 +38,7 @@ class CircularImage extends StatelessWidget {
         Padding(
           padding: const EdgeInsets.only(top: 10),
           child: Text(
-            "12 : 30 minutes",
+            "17 : 21 minutes",
             style: GoogleFonts.poppins(
               fontSize: 15,
             ),
